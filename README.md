@@ -4,7 +4,7 @@
 This document describes the take-home exam for the machine learning position. 
 The goal is to train a model that can **classify abnormal lung sounds in short audio clips**. Most of Medsensio's machine learning projects are based on audio data. We have therefore developed a take-home assignment closely related to what Medsensio does on a day to day basis. 
 
-The data which this take-home exam is based on is an open-access research database, and there are several of this available today. However, we have anonymized it and made several ch
+The data in this take-home exam is from an open-access research database, and there are several versions of this datasets of this available today. We have anonymized it and made several changes to make it simpler to apply in a machine learning model.
 
 # Description
 
