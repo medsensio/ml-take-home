@@ -36,3 +36,4 @@ You will see that there are three categories of lung sounds *normal*, *wheeze*, 
 - Code should be commented and documented.
 - You need to use a cross-validation strategy.
 - The model should predict one or more *classes* for each audio clip. 
+- Deliver result as a git repo on a remote hosting platform, or as a zipped folder with code.
