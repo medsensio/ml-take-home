@@ -11,7 +11,7 @@ The data in this take-home assignment is from an open-access research database, 
 
 The goal of the assignment is to train a model that can classify abnormal lung sounds in short audio clips. In short you will need to perform several steps:
 
- - **Read audio data into memory.** Data cleaning might be necessary. Source data is not of the highest quality, do not hesitate to remove data from the training set.
+ - **Read audio data into memory.** Data cleaning might be necessary. Source data is not of the highest quality, do not hesitate to remove data that is not openable.
  - **Features engineering and selection**. What are the inputs to the model? If you are coming from a computer vision background, using [spectrograms](https://en.wikipedia.org/wiki/Spectrogram) is an easy way to turn the audio data into a computer vision task.
  - **Develop a cross-validation strategy**. How to make sure the model is not overfitting?
  - **Choose a method**. Deep learning, Hidden Markov Model, support vector machine or maybe random forests?
